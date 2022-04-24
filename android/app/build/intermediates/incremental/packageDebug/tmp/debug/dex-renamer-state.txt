@@ -1,0 +1,4 @@
+#Wed Apr 20 09:57:26 ART 2022
+base.0=/Users/cristian/git/shop_list/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
